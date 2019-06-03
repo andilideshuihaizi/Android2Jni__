@@ -1,0 +1,8 @@
+# ninja log v5
+1	910	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	6535c51a15002582
+913	1628	0	../../../../build/intermediates/cmake/debug/obj/mips64/libnative-lib.so	3e9dd0858212826c
+3	345	0	F:/AndroidStudioProjects/Android2Jni/jniLibs/mips64/libnative-lib.so	96e15cf738bb1042
+3	353	0	F:/AndroidStudioProjects/Android2Jni/libs/mips64/libnative-lib.so	d14ddc807e5992bc
+3	383	0	libs/mips64/libnative-lib.so	890ab9baffc23712
+3	377	0	../../../../app/libs/mips64/libnative-lib.so	6db12e080ea56568
+3	338	0	../../../../libs/mips64/libnative-lib.so	4717a66bfa31690f
